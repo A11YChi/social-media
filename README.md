@@ -95,6 +95,13 @@ For some events, that have individual segments like Inclusive Design 24, I will 
 ## Characteristics of an Accessible Post
 Two things to consider are abbreviations used, typically due to character constrainst. If abbreviations are used, try to use commonly known abbreviations. Hashtags should be keep, when ever possible, after the URL or at the end of the post.
 
+While the method we use to post doesn't allow for alternative text for images, we post most posts with images, as they attract eye attention.
+
+Examples:
+* https://twitter.com/A11YChi/status/927960091357302784
+* https://twitter.com/A11YChi/status/927951283465609216
+* https://twitter.com/A11YChi/status/926803720192458754
+
 ## Content Acquisition
 I aquire content for posts from several sources.
 ### Twitter search using Hashtags
