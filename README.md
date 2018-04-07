@@ -93,7 +93,7 @@ This makes up the bulk of posts seen on a daily basis. Posting these has created
 For some events, that have individual segments like Inclusive Design 24, I will promote the event normally, then I will schedule posts for each segment. I've also created marathons, posts linking to accessibility videos, on holiday weekend, such as Memorial Day and Labor Day, mimicing the programming on many cable networks. 
 
 ## Characteristics of an Accessible Post
-Two things to consider are abbreviations used, typically due to character constrainst. If abbreviations are used, try to use commonly known abbreviations. Hashtags should be keep, when ever possible, after the URL or at the end of the post.
+Two things to consider are abbreviations used, typically due to character constrainst. If abbreviations are used, try to use commonly known abbreviations. Hashtags should be kept, when ever possible, after the URL or at the end of the post. Capitalize each word in hashtags; screen readers read them as words, not a series of letters.
 
 While the method we use to post doesn't allow for alternative text for images, we post most posts with images, as they attract eye attention.
 
@@ -126,6 +126,6 @@ We use #a11ychi for all posts related to a11ychi events, typically the day of.
 I tend to post technical, UX and design-specific articles and blog posts, event announcements, etc. during the week days. For the weekends, like a magazine or special sections of a Sunday paper, I post items that may take more time to dig into, such as articles on specific disabilities, assistive technology, videos of presentations and talks etc.
 
 ## Times of Day
-Weekdays, I post starting 10:30am (seems like a break time for many) through lunch, into early afternoon. Sometimes I'll post during the evening commute. Weekends, I tend ti keep it early to mid-mornings before peope start their weekend activities. I may also post late afternoon Saturdays, and early evening Sundays.
+Weekdays, I post starting 10:30am (seems like a break time for many) through lunch, into early afternoon. Sometimes I'll post during the evening commute. Weekends, I tend to keep it early to mid-mornings before peope start their weekend activities. I may also post late afternoon Saturdays, and early evening Sundays.
 
 
