@@ -92,6 +92,7 @@ For some events, that have individual segments like Inclusive Design 24, I will 
 On holiday weekends, such as Memorial Day, Labor Day, even during the December holidays, I will create marathons, mimicing the programming on many cable networks. The priority would be to feature recordings of our meetup. However, onlt captioned recordings should be considered for public promotion. Secondarily, we can create marathons around videos by popular accessibility presenters, again, ideally ones that are captioned. 
 
 ## Characteristics of an Accessible Post
+### The post descriptive text
 A post can provide just the headline of the post or a personalized lead-in describing the post. 
 Example (just the headline):
 Short note on role none or presentation? by @stevefaulkner 
@@ -103,6 +104,53 @@ In today's episode of @A11YRules, @MarcySutton tells us the importance of listen
 Whenever possible, we try to provide the author or source of the post. 
 * If an author, we use "by" (Short note on role none or presentation? by @stevefaulkner )
 * If now author determinable, we use the source, using "from" (Accessibility and Compliance: How to measure digital accessibility, a free webinar from @dequesystems)
+
+A space or line break should follow the lead-in text and citation.
+
+### URL
+The URL should be set apart from the rest of the text. This has the benefit of making it stand out more, and making it easier to click to tap on. We no longer use URL shorteners. We used to use Google's URL shortner for tracking. This service was discontinued within the past year.
+
+A space or line break should follow the URL.
+
+### Hashtags
+Hastags should be on their own line, at the bottom, after the descriptive lead-in text, citation and URL. 
+On almost all posts, the two accessibility hashtags should be used: #Accessibility #A11Y. Then, more contextual hashtags should be used. See below for a list of commonly used hashtags.
+
+Hashtags should use title case, meaning each word within the hashtag should have its first character uppercase. This allows for a better reading experience for screen reader users. Example: #InclusiveDesign #VisualDesign
+
+We try not to intermingle hashtags with the descriptive lead-in text, as this can create a frustrating experience for screen reader users. Placing them at the very end allows them to be by-passed for reading, yet still valuable as a mechanism for discovery.
+
+#### Common Hashtags Used
+* Accessibility
+* A11Y
+* InclusiveDesign
+* #WebDev
+* #WebDevelopment
+* #UX
+* #UserExperience
+* #Design
+* #VisualDesign
+* #UXDesign
+* #HTML
+* #HTML5
+* #CSS
+* #JS
+* #Javascript
+* #Angular
+* #AngularJS
+* #ReactJS
+* #Emberjs
+* #WP
+* #WPA11Y
+* #WordPress
+* #Drupal
+
+### Example post
+The form field validation trick they don’t want you to know by @karlgroves 
+
+http://www.karlgroves.com/2014/09/17/the-form-field-validation-trick-they-dont-want-you-to-know/
+
+#WebDev #WebDevelopment #A11Y #Accessibility 
 
 ## Content Acquisition
 I aquire content for posts from several sources.
@@ -119,7 +167,6 @@ Check out http://mailchi.mp/4e610607e841/accessibility-weekly-66mobile-accessibi
 * Paciello Group @paciellogroup https://developer.paciellogroup.com/blog/
 * Deque @dequesystems https://www.deque.com/blog/
 * Level Access (formerly SSB Bart) @LevelAccessA11y https://www.levelaccess.com/blog/
-* Simply Accessible @SAteaches http://simplyaccessible.com/articles/
 
 ## Hashtags Used
 We use #a11ychi for all posts related to a11ychi events, typically the day of.
