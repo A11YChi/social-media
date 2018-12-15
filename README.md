@@ -1,5 +1,5 @@
 # Social Media
-How A11YChi does Social Media (as of November 2017)
+How A11YChi does Social Media (as of December 2018)
 
 ## Table of Contents
 * Goal Summary
