@@ -174,6 +174,9 @@ Check out http://mailchi.mp/4e610607e841/accessibility-weekly-66mobile-accessibi
 ## Hashtags Used
 We use #a11ychi for all posts related to a11ychi events, typically the day of.
 
+## Frequency of posts
+We should strive for a minimum of two posts per day. There will be more if an event is happening on that day, or a high profile post is happening.
+
 ## Post Types per Weekday/Weekend Day
 I tend to post technical, UX and design-specific articles and blog posts, event announcements, etc. during the week days. For the weekends, like a magazine or special sections of a Sunday paper, I post items that may take more time to dig into, such as articles on specific disabilities, assistive technology, videos of presentations and talks etc.
 
