@@ -94,11 +94,14 @@ On holiday weekends, such as Memorial Day, Labor Day, even during the December h
 ## Characteristics of an Accessible Post
 ### The post descriptive text
 A post can provide just the headline of the post or a personalized lead-in describing the post. 
+
 Example (just the headline):
-Short note on role none or presentation? by @stevefaulkner 
+
+> Short note on role none or presentation? by @stevefaulkner 
 
 Example (personalized):
-In today's episode of @A11YRules, @MarcySutton tells us the importance of listening to developers’ needs and that we ought to be more positive, and to stop making people feel bad about accessibility! 
+
+> In today's episode of @A11YRules, @MarcySutton tells us the importance of listening to developers’ needs and that we ought to be more positive, and to stop making people feel bad about accessibility! 
 
 ### Citation
 Whenever possible, we try to provide the author or source of the post. 
@@ -146,11 +149,11 @@ We try not to intermingle hashtags with the descriptive lead-in text, as this ca
 * #Drupal
 
 ### Example post
-The form field validation trick they don’t want you to know by @karlgroves 
-
-http://www.karlgroves.com/2014/09/17/the-form-field-validation-trick-they-dont-want-you-to-know/
-
-#WebDev #WebDevelopment #A11Y #Accessibility 
+> The form field validation trick they don’t want you to know by @karlgroves 
+> 
+> http://www.karlgroves.com/2014/09/17/the-form-field-validation-trick-they-dont-want-you-to-know/
+> 
+> #WebDev #WebDevelopment #A11Y #Accessibility 
 
 ## Content Acquisition
 I aquire content for posts from several sources.
