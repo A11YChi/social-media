@@ -124,9 +124,9 @@ Hashtags should use title case, meaning each word within the hashtag should have
 We try not to intermingle hashtags with the descriptive lead-in text, as this can create a frustrating experience for screen reader users. Placing them at the very end allows them to be by-passed for reading, yet still valuable as a mechanism for discovery.
 
 #### Common Hashtags Used
-* Accessibility
-* A11Y
-* InclusiveDesign
+* #Accessibility
+* #A11Y
+* #InclusiveDesign
 * #WebDev
 * #WebDevelopment
 * #UX
